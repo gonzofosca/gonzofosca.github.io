@@ -1,0 +1,4 @@
+baseURL = "http://botchedgotchas.me"
+languageCode = "en-us"
+title = "BotchedGotchas"
+theme = "ananke"
