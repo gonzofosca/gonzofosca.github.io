@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Providers on BotchedGotchas</title>
+    <link>http://botchedgotchas.me/tags/providers/</link>
+    <description>Recent content in Providers on BotchedGotchas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Oct 2018 16:58:29 +0300</lastBuildDate>
+    
+	<atom:link href="http://botchedgotchas.me/tags/providers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get Slabbed</title>
+      <link>http://botchedgotchas.me/posts/slabs/</link>
+      <pubDate>Tue, 09 Oct 2018 16:58:29 +0300</pubDate>
+      
+      <guid>http://botchedgotchas.me/posts/slabs/</guid>
+      <description>Известный в узких кругах провайдер ByVM объявил о запуске нового продукта - так называемых slabs, то есть блок-сториджей, подключаемых к vps (в настоящее время исключительно в локации Las Vegas).
+Предложение, очевидно, ориентировано на клиентов с Запада США и друзей из Китая. Тем не менее ожидаются такие же предложения в Нью-Йорке и Люксембурге.
+(Променад Люксембурга, 1713)</description>
+    </item>
+    
+  </channel>
+</rss>
