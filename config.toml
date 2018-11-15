@@ -1,4 +1,14 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "BotchedGotchas"
+
 theme = "cactus"
+
+
+  
+  [params]
+  # AUTHOR SETUP
+
+ 
+  name = "Botched Deleuze"
+  role = "Associate of Paranomic Switches"
