@@ -1,14 +1,23 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Margins of remark"
+title = "Margins of remarque"
+canonifyurls = true
+theme = "blackandlight"
+author = "Autrui Majeur"
 
-theme = "cactus"
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
 
-
+[params]
+  sitename = "Botched Reference"
+  disableWebFonts = false
   
-  [params]
-  # AUTHOR SETUP
-
- 
-  name = "Botched Deleuze"
-  role = "Associate of Paranomic Switches"
+  [[menu.main]]
+    name = "О сайте"
+    url  = "/about"
+[[menu.main]]
+    name = "Collections"
+    url  = "/collections"
+[[menu.main]]
+    name = "Resume"
+    url  = "/resume"
